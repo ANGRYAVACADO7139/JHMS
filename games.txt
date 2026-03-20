@@ -29,4 +29,17 @@
     "thumbnail": "https://durangobasketball.com/assets/kartbros_vert.jpg"
     "url": https://kart.durangobasketball.com/"
   },
+  {
+    "id": "wrestle-bros",
+    "title": "Wrestle Bros",
+    "thumbnail": "https://durangobasketball.com/assets/wbros_vert.jpg"
+    "url": https://wb.durangobasketball.com/"
+  },
+  {
+    "id": "football-bros",
+    "title": "Football Bros",
+    "thumbnail": "https://durangobasketball.com/assets/fbros_vert.jpg"
+    "url": https://fb.durangobasketball.com/"
+  },
 ]
+
