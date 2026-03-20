@@ -21,7 +21,7 @@
     "id": "cookie-clicker",
     "title": "Cookie Clicker",
     "thumbnail": "https://m.media-amazon.com/images/I/71VSpLvjtaL.png",
-    "url": "https://games.engineering.com/cookie-clicker/index.html"
+    "url": "https://www.cookieclicker.gg/"
   },
   {
     "id": "kart-bros",
