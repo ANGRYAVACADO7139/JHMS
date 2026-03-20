@@ -1,0 +1,14 @@
+[
+  {
+    "id": "game1",
+    "title": "Example Game 1",
+    "thumbnail": "https://via.placeholder.com/150",
+    "url": "https://www.example.com/game1-embed"
+  },
+  {
+    "id": "game2",
+    "title": "Example Game 2",
+    "thumbnail": "https://via.placeholder.com/150",
+    "url": "https://www.example.com/game2-embed"
+  }
+]

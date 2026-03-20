@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Unblocked Games</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <h1>Unblocked Games</h1>
+        <input type="text" id="searchBar" placeholder="Search for a game...">
+    </header>
+
+    <main id="content">
+        <!-- Grid View -->
+        <div id="gameGrid" class="grid-container"></div>
+
+        <!-- Single Game View (Hidden by default) -->
+        <div id="gameView" class="hidden">
+            <button id="backBtn">← Back to Games</button>
+            <div class="iframe-container">
+                <iframe id="gameFrame" src="" frameborder="0" allowfullscreen></iframe>
+            </div>
+            <h2 id="gameTitle"></h2>
+        </div>
+    </main>
+
+    <script src="script.js"></script>
+</body>
+</html>
