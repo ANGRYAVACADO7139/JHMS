@@ -21,7 +21,7 @@
     "id": "cookie-clicker",
     "title": "Cookie Clicker",
     "thumbnail": "https://m.media-amazon.com/images/I/71VSpLvjtaL.png",
-    "url": "https://sitetitan.org/main/cookieclicker/"
+    "url": "https://eli-schwartz.github.io/cookieclicker/"
   },
   {
     "id": "kart-bros",
